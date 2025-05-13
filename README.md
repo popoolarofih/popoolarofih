@@ -1,7 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on a Platform that allows people with Cognitive and Auditory disabilities to learn with ease online. <br>👯 I’m looking to collaborate on more fintech projects<br><br>
+I’m a results-driven Software Engineer with 6+ years of building scalable, user-centric apps. Think Python, TypeScript, Node.js, React/Next.js, Laravel/PHP—and yes, I’ve wrangled machine-learning pipelines, too.
+- 🚀 **Forward-thinking problem solver:** I challenge assumptions, craft elegant solutions, and adapt on the fly.  
+- 🔒 **Quality & Performance obsessed:** From sub-100 ms endpoints to rock-solid RBAC/ABAC security, I sweat the details so your users don’t have to.  
+- 🌍 **Collaboration junkie:** Async stand-ups, Figma pairing, clear docs—I keep teams aligned across timezones.  
+- 🎨 **A dash of creativity:** I mix clean code with thoughtful design and a sprinkle of poetic flair to make experiences pop.  
 
+When I’m not writing modular, testable code, you’ll find me mentoring fellow devs, exploring new AI tools, or penning tech-lyric mashups.  
 
+> “Innovation without execution is just a dream—let’s build something unforgettable.” 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rofih-popoola) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbiolaRofih)(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:popoolarofih@gmail.com) 
 
