@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a results-driven Software Engineer with 6+ years of building scalable, user-centric apps. Think Python, TypeScript, Node.js, React/Next.js, Laravel/PHP and yes, I’ve wrangled machine-learning pipelines, too.
+I’m a results-driven Software Engineer with 6+ years of building scalable, user-centric apps. Think Python, TypeScript, Node.js, React/Next.js, Laravel/PHP and yes, I’ also build machine-learning models and pipelines, too.
 - 🚀 **Forward-thinking problem solver:** I challenge assumptions, craft elegant solutions, and adapt on the fly.  
 - 🔒 **Quality & Performance obsessed:** From sub-100 ms endpoints to rock-solid RBAC/ABAC security, I sweat the details so your users don’t have to.  
 - 🌍 **Collaboration junkie:** Async stand-ups, Figma pairing, clear docs. I keep teams aligned across timezones.  
