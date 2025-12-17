@@ -1,6 +1,6 @@
 💫 About Me
 
-I’m a software engineer with 6+ years of experience building reliable, scalable products that real users actually enjoy using. My core stack includes Python, TypeScript, Node.js, React/Next.js, and Laravel/PHP. I also design and ship machine learning models and data pipelines when the problem calls for it.
+I’m a software engineer with 5+ years of experience building reliable, scalable products that real users actually enjoy using. My core stack includes Python, TypeScript, Node.js, React/Next.js, and Laravel/PHP. I also design and ship AI services and machine learning models with data pipelines when the problem calls for it.
 
 I care deeply about how things work under the hood. I like challenging assumptions, breaking problems down to first principles, and turning messy ideas into simple, maintainable systems. Performance and security are not afterthoughts for me. I’ve built APIs with sub-100ms response times, implemented solid RBAC and ABAC patterns, and spent more hours than I can count fixing edge cases before users ever see them.
 
