@@ -1,12 +1,16 @@
-# 💫 About Me:
-I’m a results-driven Software Engineer with 6+ years of building scalable, user-centric apps. Think Python, TypeScript, Node.js, React/Next.js, Laravel/PHP and yes, I’ also build machine-learning models and pipelines, too.
-- 🚀 **Forward-thinking problem solver:** I challenge assumptions, craft elegant solutions, and adapt on the fly.  
-- 🔒 **Quality & Performance obsessed:** From sub-100 ms endpoints to rock-solid RBAC/ABAC security, I sweat the details so your users don’t have to.  
-- 🌍 **Collaboration junkie:** Async stand-ups, Figma pairing, clear docs. I keep teams aligned across timezones.  
-- 🎨 **A dash of creativity:** I mix clean code with thoughtful design and a sprinkle of poetic flair to make experiences pop.  
-When I’m not writing modular, testable code, you’ll find me mentoring fellow devs, exploring new AI tools, or penning tech-lyric mashups.  
+💫 About Me
 
-> “Innovation without execution is just a dream let’s build something unforgettable.” 
+I’m a software engineer with 6+ years of experience building reliable, scalable products that real users actually enjoy using. My core stack includes Python, TypeScript, Node.js, React/Next.js, and Laravel/PHP. I also design and ship machine learning models and data pipelines when the problem calls for it.
+
+I care deeply about how things work under the hood. I like challenging assumptions, breaking problems down to first principles, and turning messy ideas into simple, maintainable systems. Performance and security are not afterthoughts for me. I’ve built APIs with sub-100ms response times, implemented solid RBAC and ABAC patterns, and spent more hours than I can count fixing edge cases before users ever see them.
+
+I work well with people. Clear communication, good documentation, async collaboration, and tight feedback loops matter to me just as much as clean code. I’ve worked across time zones, paired with designers in Figma, and helped teams stay aligned without unnecessary meetings.
+
+I also enjoy the creative side of engineering. Clean architecture, thoughtful UX, and small details that make software feel polished are things I naturally gravitate toward.
+
+Outside of shipping code, I mentor other developers, explore new AI tools, and experiment with mixing tech and creativity in unexpected ways.
+
+Innovation without execution is just an idea. I prefer to build.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rofih-popoola)
 # 💻 Tech Stack:
